@@ -1,0 +1,11 @@
+model/Aluno.class
+model/ExerciciosFicha.class
+dao/ConnectionFactory.class
+dao/ProfessorDAO.class
+model/Professor.class
+dao/ExercicioDAO.class
+model/Ficha.class
+model/Exercicio.class
+dao/ExerciciosFichaDAO.class
+dao/FichaDAO.class
+dao/AlunoDAO.class
